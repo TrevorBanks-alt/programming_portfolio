@@ -6,4 +6,4 @@
 OOP Game built in the Processing environment, winter of 2020
 
 ![Image of spacegame](https://github.com/TrevorBanks-alt/programming_portfolio/blob/gh-pages/images/Example%20Screen%20Shot.png)
-[Soure code here](www.google.com)
+[Soure code here](https://www.google.com/?safe=active&ssui=on)
